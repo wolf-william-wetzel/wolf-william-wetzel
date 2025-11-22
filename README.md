@@ -1,16 +1,26 @@
-## Hi there 👋
+# Wolf William Wetzel
 
-<!--
-**wolf-william-wetzel/wolf-william-wetzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Wolf, a student at Brigham Young University-Idaho interested in software engineering and game design.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm constantly learning new things about software and software design.
+- My goals are to publish a complete, polished project for the world to enjoy one day.
+- I enjoy ANSI art, behavior trees, and pathfinding algorithms.
+- I like making software libraries no one will ever use.
+
+## Skills
+
+- Python
+- pygame-ce / pygbag
+- concurrency / threading / multiprocessing
+- data serialization / validation
+- networking
+
+## Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/wolf-william-wetzel/)
+- [Itch](https://binary-ninja.itch.io/)
+- [GitHub Alt Account](https://github.com/Binary-Ninja)
+
+Feel free to explore my repositories and don't hesitate to reach out.
